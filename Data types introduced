@@ -1,0 +1,9 @@
+#Data types
+#C.R.I.B.S
+#Here are variables that hold...
+#...each type of data types
+character = "a"
+Real Float = 22.45
+integer = 555
+Boolean = True
+String = "ABC123!&*" #must have speech marks
