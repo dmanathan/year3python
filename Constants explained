@@ -1,0 +1,19 @@
+#Constants explained
+
+#The definition of a variable is:
+#A named location
+#In a computers memmory
+#That stores a value
+#The value can change
+
+#The definition of a CONSTANT is:
+#A named location
+#In a computers memmory
+#That stored a value
+#The value SHOULD NOT BE CHANGED
+
+#Here is an exmaple of a CONSTANT
+FREETHROW = 1
+DUNKSHOT = 2
+THREEPOINTER = 3
+numberOfFouls = 0
