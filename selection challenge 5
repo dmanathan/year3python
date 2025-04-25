@@ -1,0 +1,7 @@
+passengers= int(input("How many passengers?"))
+if passengers <=4:
+  print("send a 4-seater")
+elif passengers >4 and passengers <17:
+  print("send 16-seater")
+else:
+  print("send a coach")
